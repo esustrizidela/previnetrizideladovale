@@ -1,0 +1,38 @@
+001Inclui valor da anestesia                                                                           202302
+003Admite longa permanência                                                                            202302
+004Admite permanência à maior                                                                          202302
+005Admite liberação de quantidade na AIH                                                               202302
+006CNRAC                                                                                               202302
+007Permanência por dia                                                                                 202302
+008Não permite mudança de procedimento                                                                 202302
+009Exige CNS                                                                                           202302
+011Permite alta direta de UTI                                                                          202302
+012Exige idade no BPA (Consolidado)                                                                    202302
+013Verifica habilitação de terceiro                                                                    202302
+014Admite APAC de Continuidade                                                                         202302
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202302
+017Exige Informação da OPM                                                                             202302
+020Monitoramento do CEO                                                                                202302
+021Não Exige CBO                                                                                       202302
+022Exige registro na APAC de dados complementares                                                      202302
+023Registro no SISCOLO                                                                                 202302
+024Registro no SISPRENATAL                                                                             202302
+025Registro no SISMAMA                                                                                 202302
+026Registro de Procedimentos Secundário Compativel                                                     202302
+029Admite período maior para a apresentação                                                            202302
+033APAC com validade fixa de 03 competências                                                           202302
+034Não exige CNS                                                                                       202302
+036Exige Autorização                                                                                   202302
+037Exige CNPJ do Fornecedor                                                                            202302
+038Exige Serviço/Classificação                                                                         202302
+040Registro no SISCAN                                                                                  202302
+041APAC com validade fixa de 12 competências                                                           202302
+042Não Admite Liberação de Crítica de Idade                                                            202302
+043Exige registro de CID de causas associadas                                                          202302
+044Cirurgias Eletivas                                                                                  202302
+045Diárias de Leitos Complementares                                                                    202302
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202302
+047Autorização com limite máximo de 6 meses.                                                           202302
+048Exige CID                                                                                           202302
+049Permite Informação de Equipe Cirúrgica                                                              202302
+050Permite o Registro de Informações do CNS do(s) Recém-Nascido(s)                                     202302

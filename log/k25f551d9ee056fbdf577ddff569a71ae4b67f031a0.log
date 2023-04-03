@@ -1,0 +1,44 @@
+[admin 2112233] Log gerado em: 03/02/2023 - 14:21:36
+###################################################################
+            Informações do arquivo KEY: ______________ [../key/2112233.rss]
+            Estado: Maranhão
+            UF: MA
+            Município: Trizidela do Vale
+            IBGE 6: 211223
+            IBGE 7: 2112233
+            Número de usuários: 10
+            Número de bancos: 2
+            Data expira: 00/00/0000
+            IDH da key: e1bee1fc009ca1d1b574b80d1a1e8ca9a4d47910
+            IDC da key: R0755026886781138030S
+            ID da instalação: 1990
+            Revenda: 0
+            Tipo de instalação: 12654
+            Data da key: 02/12/2022
+###################################################################
+    Informações do arquivo LIC: ______________[../cfg/lic.php]
+    Nome: RUAN DIAS
+    CPF: 026.888.113-80
+    IDC: R0755026886781138030S
+    Tipo de cadastro: PF
+    Aceitou contrato: 1
+    Data aceite: 20230201
+###################################################################
+        Informações MySQL: ______________[../cfg/mydb.php]
+        Host: localhost
+        Usuário: root
+        Senha: 
+        Banco: scsus21
+        Porta: 3306
+            Conexao com o banco MY: Ok
+
+                Informações pgSQL: ______________
+                Host: 
+                Usuário: 
+                Senha: 
+                Banco: 
+                Porta: 
+                    Conexao com o banco PG: Nao
+###################################################################
+    IDH local: e1bee1fc009ca1d1b574b80d1a1e8ca9a4d47910
+###################################################################

@@ -1,0 +1,73 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202302
+101Estratégia de Saúde da Família                                                                                          202302
+102Estratégias de Agentes Comunitário de Saúde                                                                             202302
+103Serviço de Atendimento Móvel de Urgências                                                                               202302
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202302
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202302
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202302
+107Serviço de Atenção a Saúde Auditiva                                                                                     202302
+108Serviço de Atenção a Saúde do Trabalhador                                                                               202302
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202302
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202302
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202302
+112Serviço de Atenção ao Pré-Natal e Nascimento                                                                            202302
+113Serviço de Atenção Domiciliar                                                                                           202302
+114Serviço de Atenção em Saúde Bucal                                                                                       202302
+115Serviço de Atenção Psicossocial                                                                                         202302
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202302
+117Serviço de Cirurgia Reparadora                                                                                          202302
+118Serviço de Cirurgia Torácica                                                                                            202302
+119Serviço de Controle de Tabagismo                                                                                        202302
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202302
+121Diagnóstico por Imagem                                                                                                  202302
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202302
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202302
+124Serviço de Endocrinologia                                                                                               202302
+125Serviço de Farmácia                                                                                                     202302
+126Serviço de Fisioterapia                                                                                                 202302
+127Serviço de Atenção à Obesidade                                                                                          202302
+128Serviço de Hemoterapia                                                                                                  202302
+129Servico de Laboratório de Histocompatibilidade                                                                          202302
+130Atenção à Doença Renal Crônica                                                                                          202302
+131Serviço de Oftalmologia                                                                                                 202302
+132Serviço de Oncologia                                                                                                    202302
+133Serviço de Pneumologia                                                                                                  202302
+134Serviço de Práticas Integrativas e Complementares                                                                       202302
+135Serviço de Reabilitação                                                                                                 202302
+136Serviço de Suporte Nutricional                                                                                          202302
+137Serviço de Telemedicina                                                                                                 202302
+138Serviço de Traumato-Ortopedia                                                                                           202302
+139Serviço de Triagem Neonatal                                                                                             202302
+140Serviço de Urgência e Emergência                                                                                        202302
+141Serviço de Vigilância em Saúde                                                                                          202302
+142Serviço de Endoscopia                                                                                                   202302
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202302
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202302
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202302
+146Serviço de Videolaparoscopia                                                                                            202302
+147Serviço de Apoio a Saúde da Família                                                                                     202302
+148Hospital-Dia                                                                                                            202302
+149Transplante                                                                                                             202302
+150Cirurgia Vascular                                                                                                       202302
+151Medicina Nuclear                                                                                                        202302
+152Atenção à Saúde da População Indígena                                                                                   202302
+153Atenção Especializada no Processo Transexualizador                                                                      202302
+154Serviço de Banco de Tecidos                                                                                             202302
+155Serviço de Traumatologia  Ortopedia                                                                                     202302
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      202302
+157Serviço de Laboratorio de Protese Dentaria                                                                              202302
+158Serviço de Atenção Integral em Hanseniase                                                                               202302
+159Atenção Primária                                                                                                        202302
+160Teleconsultoria                                                                                                         202302
+161Consultório na Rua                                                                                                      202302
+162Serviço de Terapia Intensiva                                                                                            202302
+163Serviço de Cuidados Intermediários                                                                                      202302
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202302
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202302
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202302
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202302
+168Atenção Às Pessoas com Doenças Raras                                                                                    202302
+169Serviço de Atenção em Urologia                                                                                          202302
+170Comissões e Comitês                                                                                                     202302
+173Logística de Imunobiológicos                                                                                            202302
+174Imunização                                                                                                              202302

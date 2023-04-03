@@ -1,0 +1,5 @@
+01/02/2023 10:21:19__________(inicio)________
+Ultima versao no banco: 20
+Versao instalada: 21
+Erro no update do modulo (bpa): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'bpa_13' for key 'PRIMARY'Erro no update do modulo (cidadao): SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'cnes'Erro no update do modulo (prevbra): SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'qdad'
+01/02/2023 10:21:19__________(fim)________

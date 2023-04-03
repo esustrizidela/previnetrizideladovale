@@ -1,0 +1,59 @@
+0301Consultas / Atendimentos / Acompanhamentos                                                          202302
+0801Ações relacionadas ao estabelecimento                                                               202302
+0201Coleta de material                                                                                  202302
+0101Ações coletivas/individuais em saúde                                                                202302
+0701Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           202302
+0601Medicamentos de dispensação excepcional                                                             202302
+0501Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   202302
+0401Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  202302
+0202Diagnóstico em laboratório clínico                                                                  202302
+0102Vigilância em saúde                                                                                 202302
+0802Ações relacionadas ao atendimento                                                                   202302
+0702Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               202302
+0602Medicamentos estratégicos                                                                           202302
+0502Avaliação de morte encefálica                                                                       202302
+0402Cirurgia de glândulas endócrinas                                                                    202302
+0302Fisioterapia                                                                                        202302
+0203Diagnóstico por anatomia patológica e citopatologia                                                 202302
+0803Autorização / regulação                                                                             202302
+0603Medicamentos de âmbito hospitalar e urgência                                                        202302
+0403Cirurgia do sistema nervoso central e periférico                                                    202302
+0303Tratamentos clínicos (outras especialidades)                                                        202302
+0503Ações relacionadas à doação de orgãos e tecidos para transplante                                    202302
+0504Processamento de tecidos para transplante                                                           202302
+0404Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                202302
+0204Diagnóstico por radiologia                                                                          202302
+0604Componente especializado da assistência farmacêutica                                                202302
+0304Tratamento em oncologia                                                                             202302
+0305Tratamento em nefrologia                                                                            202302
+0405Cirurgia do aparelho da visão                                                                       202302
+0205Diagnóstico por ultrasonografia                                                                     202302
+0505Transplante de orgãos, tecidos e células                                                            202302
+0506Acompanhamento e intercorrências no pré e pós-transplante                                           202302
+0206Diagnóstico por tomografia                                                                          202302
+0406Cirurgia do aparelho circulatório                                                                   202302
+0306Hemoterapia                                                                                         202302
+0307Tratamentos odontológicos                                                                           202302
+0207Diagnóstico por ressonância magnética                                                               202302
+0407Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    202302
+0208Diagnóstico por medicina nuclear in vivo                                                            202302
+0308Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       202302
+0408Cirurgia do sistema osteomuscular                                                                   202302
+0409Cirurgia do aparelho geniturinário                                                                  202302
+0309Terapias especializadas                                                                             202302
+0209Diagnóstico por endoscopia                                                                          202302
+0410Cirurgia de mama                                                                                    202302
+0310Parto e nascimento                                                                                  202302
+0210Diagnóstico por radiologia intervencionista                                                         202302
+0411Cirurgia obstétrica                                                                                 202302
+0211Métodos diagnósticos em especialidades                                                              202302
+0412Cirurgia torácica                                                                                   202302
+0212Diagnóstico e procedimentos especiais em hemoterapia                                                202302
+0213Diagnóstico em vigilância epidemiológica e ambiental                                                202302
+0413Cirurgia reparadora                                                                                 202302
+0414Bucomaxilofacial                                                                                    202302
+0214Diagnóstico por teste rápido                                                                        202302
+0415Outras cirurgias                                                                                    202302
+0416Cirurgia em oncologia                                                                               202302
+0417Anestesiologia                                                                                      202302
+0418Cirurgia em nefrologia                                                                              202302

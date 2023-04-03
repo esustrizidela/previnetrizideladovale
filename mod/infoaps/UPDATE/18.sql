@@ -1,0 +1,3 @@
+ALTER TABLE `infoaps_tb_cf_geral` ADD `tipo_municipio` VARCHAR(20) NULL, ADD `homologados` VARCHAR(250) NULL, ADD `num_cons_med_esf` INT NOT NULL DEFAULT '0', ADD `num_cons_enf_esf` INT NOT NULL DEFAULT '0', ADD `num_cons_med_eap30` INT NOT NULL DEFAULT '0', ADD `num_cons_enf_eap30` INT NOT NULL DEFAULT '0', ADD `num_cons_med_eap20` INT NOT NULL DEFAULT '0', ADD `num_cons_enf_eap20` INT NOT NULL DEFAULT '0';
+
+UPDATE `sc_tb_menu` SET `ativo` = '1' WHERE `id` = 'infoaps_02';

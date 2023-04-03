@@ -1,0 +1,30 @@
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências202302
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          202302
+040017Nefrologia                                                                                          202302
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       202302
+040028Outras cirurgias plásticas/reparadoras                                                              202302
+040030Sequenciais                                                                                         202302
+040032Transplantes de orgãos, tecidos e células                                                           202302
+040033Medicamentos para transplante                                                                       202302
+040038OPM para transplantes                                                                               202302
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          202302
+040044Redesignação e Acompanhamento                                                                       202302
+040049Implementar Cirg. CV Pediátrica                                                                     202302
+040055Transplante - Histocompatibilidade                                                                  202302
+040062Doenças Raras                                                                                       202302
+040063Cadeiras de Rodas                                                                                   202302
+040065Medicamentos em Urgência                                                                            202302
+040066Cirurgias Eletivas - Componente Único                                                               202302
+040067Atenção Especializada em Saúde Auditiva                                                             202302
+040068Terapias Especializadas em Angiologia                                                               202302
+040069Tratamento de Doença Macular                                                                        202302
+040070OPME Não Relacionados ao Ato Cirúrgico                                                              202302
+040071Diagnóstico/tratamento em oncologia                                                                 202302
+040072Diagnóstico de trombofilia em gestante                                                              202302
+040073Reabilitação Pós-COVID-19                                                                           202302
+040074Telemedicina em Urgência                                                                            202302
+040075Fisioterapia Cardiovascular                                                                         202302
+040076Hemodinâmica em atendimento de urgência                                                             202302
+040077Exames Sorológicos e Imunológicos                                                                   202302
+040078QualiSUS Cardio.                                                                                    202302
+040079Pré-cirúrgico em Cirurgias Prioritárias                                                             202302

@@ -1,0 +1,211 @@
+
+.image {
+  position: fixed;
+  left: 30px;
+  top: 245px;
+  height: 295px;
+  width: 723px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto {
+  position: fixed;
+  font-size: 32px;
+  left: 250px;
+  top: 135px;
+}
+
+.text_cns {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 20px;
+  font-weight: 400;
+  color: #000;
+  left: 60px;
+  top: 512px;
+}
+
+
+.cmsc {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 16px;
+  left: 100px;
+  top: 100px;
+}
+
+.cns {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 42px;
+  left: 86px;
+  top: 519px;
+}
+
+.nome {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 660px;
+  top: 295px;
+}
+
+.sexo {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 970px;
+  top: 295px;
+}
+
+.end0 {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 660px;
+  top: 327px;
+}
+
+.end1 {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 660px;
+  top: 348px;
+}
+
+.mae {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 660px;
+  top: 380px;
+}
+
+.nascimento {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 20px;
+  left: 965px;
+  top: 398px;
+}
+
+.extra {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 13px;
+  left: 965px;
+  top: 530px;
+}
+
+.municipio {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 9px;
+  left: 585px;
+  top: 334px;
+  color: #000000;
+}
+
+.teste {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 9px;
+  left: 585px;
+  top: 334px;
+  font-weight: bold;
+  color: #009933;
+  text-decoration: underline overline line-through;
+  background-color: #99FF00;
+}
+
+
+
+
+.ubs {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 1000px;
+  top: 440px;
+}
+
+
+
+.acs {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 660px;
+  top: 440px;
+}
+
+.cpf {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 20px;
+  left: 660px;
+  top: 398px;
+}
+
+.hipertenso {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 660px;
+  top: 500px;
+}
+
+
+.diabetico {
+  font-family: 'Open Sans', sans-serif;
+  position: fixed;
+  font-size: 11px;
+  left: 660px;
+  top: 480px;
+}
+
+
+.logo-pref {
+  position: fixed;
+  top: 140px;
+  left: 465px;  
+  width: 65px;
+  height: 65px; 
+}
+
+
+.logo{
+position: absolute;
+      background-color: rgba(0,0,0,0.5);
+      color:#fff;
+      text-align: center;
+      top: 125px;
+      width: 250px;
+      line-height: 30px;
+      height: 30px;
+
+}
+
+.nqrcode {
+  position: fixed;
+  top: 288px;
+  left: 820px; 
+  width: 55px;
+  height: 55px;
+   
+}
+
+.qrcode {
+  position: fixed;
+  top: 355px;
+  left: 73px; 
+  width: 135px;
+  height: 135px;
+   
+}
+
+
+

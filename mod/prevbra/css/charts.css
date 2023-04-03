@@ -1,0 +1,377 @@
+.circle-chart {
+    cursor: pointer;
+    margin: 70px;
+    height: 400px;
+    position: relative;
+    width: 400px;
+}
+
+.circle-chart.small {
+    height: 200px;
+    width: 200px;
+}
+
+.circle-chart p {
+    color: #da1d1d;
+    font-family: sans-serif;
+    font-size: 6em;
+    font-weight: 600;
+    line-height: 1em;
+    margin-top: -0.5em;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    -webkit-animation: fadein 1.5s;
+    /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 1.5s;
+    /* Firefox < 16 */
+    -ms-animation: fadein 1.5s;
+    /* Internet Explorer */
+    -o-animation: fadein 1.5s;
+    /* Opera < 12.1 */
+    animation: fadein 1.5s;
+}
+
+.circle-chart.small p {
+    font-size: 3.3em;
+}
+
+.circle-chart .bar {
+    height: 80%;
+    margin: -40% 0 0 -5px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 3%;
+}
+
+.circle-chart .bar:after,
+.circle-chart.double .bar:before {
+    background: #da1d1d;
+    border-radius: 10px;
+    content: "";
+    height: 15%;
+    position: absolute;
+    top: -10%;
+    left: 0;
+    width: 100%;
+}
+
+.circle-chart.double .bar:after,
+.circle-chart.double .bar:before {
+    height: 10%;
+    width: 80%;
+}
+
+.circle-chart.double .bar:before {
+    left: 125%;
+}
+
+.circle-chart.success p {
+    color: #28C76F;
+}
+.circle-chart.success .bar:after,
+.circle-chart.success .bar:before {
+    background: #28C76F;
+}
+
+.circle-chart.warning p {
+    color: #FF9F43;
+}
+.circle-chart.warning .bar:after,
+.circle-chart.warning .bar:before {
+    background: #FF9F43;
+}
+
+.circle-chart.danger p {
+    color: #EA5455;
+}
+.circle-chart.danger .bar:after,
+.circle-chart.danger .bar:before {
+    background: #EA5455;
+}
+
+.circle-chart.info p {
+    color: #00CFE8;
+}
+.circle-chart.info .bar:after,
+.circle-chart.info .bar:before {
+    background: #00CFE8;
+}
+
+.circle-chart.primary p {
+    color: #7367F0;
+}
+.circle-chart.primary .bar:after,
+.circle-chart.primary .bar:before {
+    background: #7367F0;
+}
+
+.circle-chart .bar:nth-child(2) {
+    -ms-transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+}
+
+.circle-chart .bar:nth-child(3) {
+    -ms-transform: rotate(20deg);
+    -webkit-transform: rotate(20deg);
+    transform: rotate(20deg);
+}
+
+.circle-chart .bar:nth-child(4) {
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+}
+
+.circle-chart .bar:nth-child(5) {
+    -ms-transform: rotate(40deg);
+    -webkit-transform: rotate(40deg);
+    transform: rotate(40deg);
+}
+
+.circle-chart .bar:nth-child(6) {
+    -ms-transform: rotate(50deg);
+    -webkit-transform: rotate(50deg);
+    transform: rotate(50deg);
+}
+
+.circle-chart .bar:nth-child(7) {
+    -ms-transform: rotate(60deg);
+    -webkit-transform: rotate(60deg);
+    transform: rotate(60deg);
+}
+
+.circle-chart .bar:nth-child(8) {
+    -ms-transform: rotate(70deg);
+    -webkit-transform: rotate(70deg);
+    transform: rotate(70deg);
+}
+
+.circle-chart .bar:nth-child(9) {
+    -ms-transform: rotate(80deg);
+    -webkit-transform: rotate(80deg);
+    transform: rotate(80deg);
+}
+
+.circle-chart .bar:nth-child(10) {
+    -ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.circle-chart .bar:nth-child(11) {
+    -ms-transform: rotate(100deg);
+    -webkit-transform: rotate(100deg);
+    transform: rotate(100deg);
+}
+
+.circle-chart .bar:nth-child(12) {
+    -ms-transform: rotate(110deg);
+    -webkit-transform: rotate(110deg);
+    transform: rotate(110deg);
+}
+
+.circle-chart .bar:nth-child(13) {
+    -ms-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+    transform: rotate(120deg);
+}
+
+.circle-chart .bar:nth-child(14) {
+    -ms-transform: rotate(130deg);
+    -webkit-transform: rotate(130deg);
+    transform: rotate(130deg);
+}
+
+.circle-chart .bar:nth-child(15) {
+    -ms-transform: rotate(140deg);
+    -webkit-transform: rotate(140deg);
+    transform: rotate(140deg);
+}
+
+.circle-chart .bar:nth-child(16) {
+    -ms-transform: rotate(150deg);
+    -webkit-transform: rotate(150deg);
+    transform: rotate(150deg);
+}
+
+.circle-chart .bar:nth-child(17) {
+    -ms-transform: rotate(160deg);
+    -webkit-transform: rotate(160deg);
+    transform: rotate(160deg);
+}
+
+.circle-chart .bar:nth-child(18) {
+    -ms-transform: rotate(170deg);
+    -webkit-transform: rotate(170deg);
+    transform: rotate(170deg);
+}
+
+.circle-chart .bar:nth-child(19) {
+    -ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.circle-chart .bar:nth-child(20) {
+    -ms-transform: rotate(190deg);
+    -webkit-transform: rotate(190deg);
+    transform: rotate(190deg);
+}
+
+.circle-chart .bar:nth-child(21) {
+    -ms-transform: rotate(200deg);
+    -webkit-transform: rotate(200deg);
+    transform: rotate(200deg);
+}
+
+.circle-chart .bar:nth-child(22) {
+    -ms-transform: rotate(210deg);
+    -webkit-transform: rotate(210deg);
+    transform: rotate(210deg);
+}
+
+.circle-chart .bar:nth-child(23) {
+    -ms-transform: rotate(220deg);
+    -webkit-transform: rotate(220deg);
+    transform: rotate(220deg);
+}
+
+.circle-chart .bar:nth-child(24) {
+    -ms-transform: rotate(230deg);
+    -webkit-transform: rotate(230deg);
+    transform: rotate(230deg);
+}
+
+.circle-chart .bar:nth-child(25) {
+    -ms-transform: rotate(240deg);
+    -webkit-transform: rotate(240deg);
+    transform: rotate(240deg);
+}
+
+.circle-chart .bar:nth-child(26) {
+    -ms-transform: rotate(250deg);
+    -webkit-transform: rotate(250deg);
+    transform: rotate(250deg);
+}
+
+.circle-chart .bar:nth-child(27) {
+    -ms-transform: rotate(260deg);
+    -webkit-transform: rotate(260deg);
+    transform: rotate(260deg);
+}
+
+.circle-chart .bar:nth-child(28) {
+    -ms-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+.circle-chart .bar:nth-child(29) {
+    -ms-transform: rotate(280deg);
+    -webkit-transform: rotate(280deg);
+    transform: rotate(280deg);
+}
+
+.circle-chart .bar:nth-child(30) {
+    -ms-transform: rotate(290deg);
+    -webkit-transform: rotate(290deg);
+    transform: rotate(290deg);
+}
+
+.circle-chart .bar:nth-child(31) {
+    -ms-transform: rotate(300deg);
+    -webkit-transform: rotate(300deg);
+    transform: rotate(300deg);
+}
+
+.circle-chart .bar:nth-child(32) {
+    -ms-transform: rotate(310deg);
+    -webkit-transform: rotate(310deg);
+    transform: rotate(310deg);
+}
+
+.circle-chart .bar:nth-child(33) {
+    -ms-transform: rotate(320deg);
+    -webkit-transform: rotate(320deg);
+    transform: rotate(320deg);
+}
+
+.circle-chart .bar:nth-child(34) {
+    -ms-transform: rotate(330deg);
+    -webkit-transform: rotate(330deg);
+    transform: rotate(330deg);
+}
+
+.circle-chart .bar:nth-child(35) {
+    -ms-transform: rotate(340deg);
+    -webkit-transform: rotate(340deg);
+    transform: rotate(340deg);
+}
+
+.circle-chart .bar:nth-child(36) {
+    -ms-transform: rotate(350deg);
+    -webkit-transform: rotate(350deg);
+    transform: rotate(350deg);
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+/* Firefox < 16 */
+
+@-moz-keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+/* Safari, Chrome and Opera > 12.1 */
+
+@-webkit-keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+/* Internet Explorer */
+
+@-ms-keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+/* Opera < 12.1 */
+
+@-o-keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}

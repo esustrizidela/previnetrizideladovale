@@ -1,0 +1,93 @@
+.isf-tabela {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.isf-tabela-cabeca {
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+	text-align: center;
+	vertical-align: middle;
+	border-top: thin solid #666666;
+	border-right: thin none #666666;
+	border-bottom: thin solid #666666;
+	border-left: thin solid #666666;
+}
+.isf-tabela-cabeca-dir {
+	font-size: 13px;
+	font-weight: bold;
+	color: #333333;
+	text-align: center;
+	vertical-align: middle;
+	border-top: thin solid #666666;
+	border-right: thin solid #666666;
+	border-bottom: thin solid #666666;
+	border-left: thin solid #666666;
+}
+.isf-tabela-valores {
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #666666;
+
+}
+.isf-tabela-valores-dir {
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #666666;
+}
+.isf-tabela-descricao {
+	text-indent: 9pt;
+	vertical-align: middle;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #666666;
+
+}
+.isf-tabela-descricao-dir {
+	text-indent: 9pt;
+	vertical-align: middle;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #666666;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	border-left-color: #666666;
+	border-right-style: solid;
+
+}
+
+

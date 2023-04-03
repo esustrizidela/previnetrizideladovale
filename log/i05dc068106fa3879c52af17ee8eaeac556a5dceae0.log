@@ -1,0 +1,26 @@
+Log de instalação
+PHP 8.0: 1
+Ex. SourceGuardian: 1
+Ex. PDO_PG: 1
+Ex. PDO_MySQL: 1
+MySQL: 1
+Acesso a internet: 1
+Estado (UF): MA
+Municipio: Trizidela do Vale
+Logo (status): 
+IDH: e1bee1fc009ca1d1b574b80d1a1e8ca9a4d47910
+IDC: R0755026886781138030S
+Nome: RUAN DIAS
+E-mail: ruandiaslima@outlook.com.br
+IBGE: 2112233
+Tipo (PJ/PF): 
+CPF: 026.888.113-80
+CNPJ: 
+Aceite contrato: on
+DB Host: localhost
+DB Porta: 3306
+DB Banco: scsus21
+DB Usuario: root
+DB Senha: 
+DB Acao: 0
+

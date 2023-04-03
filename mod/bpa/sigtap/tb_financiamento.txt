@@ -1,0 +1,7 @@
+01Atenção Básica (PAB)                                                                                202302
+02Assistência Farmacêutica                                                                            202302
+04Fundo de Ações Estratégicas e Compensações (FAEC)                                                   202302
+05Incentivo - MAC                                                                                     202302
+06Média e Alta Complexidade (MAC)                                                                     202302
+07Vigilância em Saúde                                                                                 202302
+08Gestão do SUS                                                                                       202302
